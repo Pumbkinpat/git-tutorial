@@ -15,3 +15,5 @@ git command:
 - git commit -m"" : create a commit
 - git log : show commit history
 - git log --all : show all commit history
+- git config --global user.name"" : provide username
+- git config --global user.email"" : provide user email
