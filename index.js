@@ -6,3 +6,5 @@ console.log('changes');
 console.log('changes');
 
 console.log('new change');
+
+console.log('bugfix added 1');
