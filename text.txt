@@ -1,0 +1,19 @@
+bash commands: 
+
+- pwd: current folder
+- ls: list sub folder 
+- ls -a : list all sub folder
+- cd: change directory 
+- open: open a folder or a file
+
+folder = directory = repository
+
+git command:
+- git init: intalize .git folder
+- git add : add changes
+- git status: Show all changes since the previous commit
+- git commit -m"" : create a commit
+- git log : show commit history
+- git log --all : show all commit history
+- git config --global user.name"" : provide username
+- git config --global user.email"" : provide user email
